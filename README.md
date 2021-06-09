@@ -1,8 +1,10 @@
 # Kotlin
-------------------------
+
 kotlin grammar practice
 
-    [add] : 파일 생성 시
+    [create] : 파일 생성 시
+    
+    [add] : 파일 추가 시
     
     [update] : 파일 수정 시
     
