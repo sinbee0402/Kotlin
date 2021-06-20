@@ -1,5 +1,7 @@
 package com.example.kotlin
 
+// 4. LiteralDataType
+
 fun main(args:Array<String>):Unit
 {
     val variable = 10+12-5
@@ -17,3 +19,5 @@ fun main(args:Array<String>):Unit
 *   그래서 variable 뒤에 : Int가 생략되었다.
 */
 }
+
+//Next: Arithmetic Operator
