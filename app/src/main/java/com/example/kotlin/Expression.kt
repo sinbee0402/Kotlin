@@ -1,5 +1,7 @@
 package com.example.kotlin
 
+// 2. Expression
+
 fun main(args: Array<String>): Unit
 {
     53+62-126
@@ -14,3 +16,5 @@ fun main(args: Array<String>): Unit
 *   표현식: 하나의 값으로 수렴되는 수식뭉치
 */
 }
+
+//Next: Variable
