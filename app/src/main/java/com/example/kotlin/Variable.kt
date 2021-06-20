@@ -1,5 +1,7 @@
 package com.example.kotlin
 
+// 3. Variable
+
 fun main(args: Array<String>): Unit
 {
     var total:Int
@@ -33,3 +35,5 @@ fun main(args: Array<String>): Unit
 *   var: 일반 변수-값이 변할 수 있다., val: 불변 변수-값이 변하지 않는다.
 */
 }
+
+//Next: LiteralDataType
