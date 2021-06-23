@@ -1,5 +1,7 @@
 package com.example.kotlin
 
+// 8. Integer & RealDataType
+
 fun main(args: Array<String>): Unit {
 /*
 *   정수 타입(정수를 저장할 수 있는 타입)
@@ -44,3 +46,5 @@ fun main(args: Array<String>): Unit {
                         //Float 타입으로 변환된 726.056을 e에 저장한다. 기존 e에 저장되어 있던 67.6은 지워지고 726.056이 새로 저장된다.
     println(e)
 }
+
+//Next: Trap of RealNumber
