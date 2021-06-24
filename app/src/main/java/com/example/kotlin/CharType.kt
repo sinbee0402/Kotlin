@@ -1,6 +1,6 @@
 package com.example.kotlin
 
-// 9. CharType
+// 10. CharType
 
 fun main(args: Array<String>): Unit{
 //문자 타입: 문자를 저장할 수 있는 타입
