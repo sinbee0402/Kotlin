@@ -1,6 +1,6 @@
 package com.example.kotlin
 
-// 3. LiteralDataType
+// 4. LiteralDataType
 
 fun main(args:Array<String>):Unit
 {
