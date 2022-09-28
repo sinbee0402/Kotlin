@@ -1,7 +1,5 @@
 # Kotlin Grammar
-
 ## [grammar](https://github.com/sinbee0402/Kotlin/tree/grammar/app/src/main/java/com/example/kotlin)
-
     [create] : 파일 생성 시
     
     [add] : 파일 추가 시
