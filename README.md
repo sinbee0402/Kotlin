@@ -1,6 +1,6 @@
 # Kotlin
 
-## kotlin !
+## kotlin study!
 
     [create] : 파일 생성 시
     
