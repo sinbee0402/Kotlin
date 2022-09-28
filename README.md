@@ -1,6 +1,4 @@
-# Kotlin
-
-## kotlin study!
+# Kotlin Grammar
 
     [create] : 파일 생성 시
     
