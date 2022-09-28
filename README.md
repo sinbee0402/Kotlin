@@ -1,6 +1,6 @@
-# Kotlin
+# Kotlin Study
 
-## kotlin study!
+### [grammar](https://github.com/sinbee0402/Kotlin/tree/grammar)
 
     [create] : 파일 생성 시
     
